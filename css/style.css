@@ -127,7 +127,6 @@ a:focus {
     overflow: hidden;
 }
 
-
 /** navigation start **/
 
 .navigation {
@@ -215,7 +214,6 @@ a:focus {
 .navigation.sticky-nav .sticky-logo img {
     height: 35px;
 }
-
 
 /** navigation end **/
 
@@ -333,7 +331,6 @@ h2.section-subheading.about {
     margin-bottom: 20px;
 }
 
-
 /** titlebtn**/
 
 .titlebtn {
@@ -426,7 +423,6 @@ h2.section-subheading.about {
     color: white;
 }
 
-
 /*
 .custombtn {
     background-color: #5c5c5c;
@@ -478,7 +474,6 @@ h2.section-subheading.about {
     color: white;
 }
 */
-
 
 /** section skill start **/
 
@@ -648,9 +643,7 @@ h2.section-subheading.about {
     font-size: .8em;
 }
 
-
 /** section skill end **/
-
 
 /** section experience start **/
 
@@ -786,9 +779,7 @@ p.tar {
     padding-right: 0px;
 }
 
-
 /** section experience end **/
-
 
 /** section counter start **/
 
@@ -834,9 +825,7 @@ p.tar {
     margin-top: -12px;
 }
 
-
 /** section counter end **/
-
 
 /**section education start**/
 
@@ -954,9 +943,7 @@ p.tar {
     letter-spacing: 1;
 }
 
-
 /**section education end**/
-
 
 /** section works start**/
 
@@ -1048,9 +1035,7 @@ p.tar {
     margin-top: 80px;
 }
 
-
 /** section works end**/
-
 
 /**section portfolio start**/
 
@@ -1105,9 +1090,7 @@ p.tar {
     width: 100%;
 }
 
-
 /**section portfolio end**/
-
 
 /** section testimonial **/
 
@@ -1195,9 +1178,7 @@ p.tar {
     text-align: center;
 }
 
-
 /** section testimonial end **/
-
 
 /** section contact start **/
 
@@ -1477,7 +1458,6 @@ p.address {
     border-color: #FA6862;
 }
 
-
 /*social link*/
 
 .social-link {
@@ -1493,7 +1473,6 @@ p.address {
     right: 9%;
     top: 170px
 }
-
 
 /*
 .sprite-facebook {
@@ -1513,7 +1492,6 @@ p.address {
 }
 */
 
-
 /*
 .sprite-github {
      background-position: 0 -354px;
@@ -1531,7 +1509,6 @@ p.address {
     left: 16%;
     top: 80px
 }
-
 
 /*
 .sprite-instagram {
@@ -1740,7 +1717,6 @@ p.address {
     text-transform: uppercase;
     color: #aaa;
 }
-
 
 /*blog*/
 
@@ -2397,7 +2373,6 @@ ol.comment-list {
     color: #fff;
 }
 
-
 /*==Flickr==*/
 
 .footer-w-head {
@@ -2411,8 +2386,8 @@ ol.comment-list {
     color: #fff;
 }
 
-
 }
+
 .footer-w-head:after {
     width: 60px;
     height: 0px;
@@ -2422,18 +2397,21 @@ ol.comment-list {
     bottom: -1px;
     border-bottom: #fff 1px solid;
 }
+
 .flickr-feed,
 .awards-list {
     list-style: none;
     margin: 0px;
     padding: 0px;
 }
+
 .flickr-feed li {
     width: 60px;
     height: 60px;
     display: inline-block;
     margin: 5px;
 }
+
 .flickr-feed li a img {
     width: 100%;
     height: 100%;
@@ -2461,10 +2439,12 @@ ol.comment-list {
     transition: all 0.3s;
 }
 */
+
 .awards-list li {
     line-height: normal;
     margin-bottom: 10px;
 }
+
 .awards-list li .award-thumb {
     width: 60px;
     height: 60px;
@@ -2472,25 +2452,30 @@ ol.comment-list {
     margin: 8px 10px 0px 5px;
     float: left;
 }
+
 .awards-list li .award-thumb img {
     width: 60px;
     height: 60px;
     padding: 0;
     margin: -5px;
 }
+
 .awards-list li .award-title {
     display: block;
 }
+
 .awards-list li .award-title a {
     display: block;
     font-size: 16px;
     margin-bottom: 5px;
     margin-top: 4px;
 }
+
 .awards-list li p {
     padding: 0px;
     color: #9b9b9b;
 }
+
 .award-date {
     display: block;
     margin-top: 3px;
@@ -2498,6 +2483,7 @@ ol.comment-list {
 }
 
 /*===MODAL===*/
+
 .portfolio-modal {
     background-color: #fff;
     height: auto;
@@ -2505,19 +2491,24 @@ ol.comment-list {
     padding: 0px;
     margin: 8% auto;
 }
+
 .portfolio-modal-content {
     padding-right: 40px;
     padding-bottom: 40px;
 }
+
 .portfolio-modal-content p {
     line-height: 2em;
 }
+
 .modal-img {
     padding: 20px;
 }
+
 .modal-img img {
     width: 100%;
 }
+
 .modal-exit {
     width: 30px;
     height: 30px;
@@ -2526,6 +2517,7 @@ ol.comment-list {
     text-align: center;
     background-color: #ccc !important;
 }
+
 .page-mask {
     width: 100%;
     height: 100%;
@@ -2535,6 +2527,7 @@ ol.comment-list {
     left: 0px;
     z-index: 10000;
 }
+
 .page-loader {
     width: 44px;
     height: 44px;
@@ -2543,6 +2536,7 @@ ol.comment-list {
     margin: 20% auto 0 auto;
     font-size: 12px;
 }
+
 .spinner {
     border: 2px solid #eeeeee;
     font-size: 40px;
@@ -2557,6 +2551,7 @@ ol.comment-list {
     animation: spin 1s linear infinite;
     border-top-color: #333;
 }
+
 @-webkit-keyframes spin {
     to {
         -webkit-transform: rotate(360deg);
@@ -2566,6 +2561,7 @@ ol.comment-list {
         transform: rotate(360deg);
     }
 }
+
 @-moz-keyframes spin {
     to {
         -webkit-transform: rotate(360deg);
@@ -2575,6 +2571,7 @@ ol.comment-list {
         transform: rotate(360deg);
     }
 }
+
 @keyframes spin {
     to {
         -webkit-transform: rotate(360deg);
@@ -2584,6 +2581,7 @@ ol.comment-list {
         transform: rotate(360deg);
     }
 }
+
 .drag-place {
     height: 196px;
     margin: auto;
@@ -2592,20 +2590,24 @@ ol.comment-list {
     width: 314px;
     z-index: 100;
 }
+
 .social-link-drag {
     z-index: 102;
     -webkit-transition: all 0.0s !important;
     -moz-transition: all 0.0s !important;
     transition: all 0.0s !important;
 }
+
 .social-drag-hover {
     background: rgba(250, 104, 98, .3);
     border: #FA6862 2px dotted;
 }
+
 .firstHeading {
     margin-top: 0px;
     font-size: 14px;
 }
+
 @media (max-width:1000px) {
     .tech-img {
         display: none;
